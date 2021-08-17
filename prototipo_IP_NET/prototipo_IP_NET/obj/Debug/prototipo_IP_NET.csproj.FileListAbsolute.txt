@@ -1,0 +1,32 @@
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\prototipo_IP_NET.exe.config
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\prototipo_IP_NET.exe
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\prototipo_IP_NET.pdb
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Diseño.dll
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Logica.dll
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Datos.dll
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Diseño.pdb
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Logica.pdb
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Datos.pdb
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csprojAssemblyReference.cache
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.Properties.Resources.resources
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.GenerateResource.cache
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.CoreCompileInputs.cache
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.CopyComplete
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.exe
+C:\Users\Epa Peri\source\repos\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.pdb
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\prototipo_IP_NET.exe.config
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\prototipo_IP_NET.exe
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\prototipo_IP_NET.pdb
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Diseño.dll
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Logica.dll
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Datos.dll
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Diseño.pdb
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Logica.pdb
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\bin\Debug\Capa_Datos.pdb
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.csproj.CopyComplete
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.exe
+C:\Users\Andrea\Desktop\Prototipo1P\prototipo_IP_NET\prototipo_IP_NET\obj\Debug\prototipo_IP_NET.pdb
